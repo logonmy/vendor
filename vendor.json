@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "KPXTXztAoO7jptCBRZfX8u5N0To=",
+			"path": "github.com/yeeuu/echoic",
+			"revision": "a7d6994f92e2dc60cff071ae38b204fbd4bd2a3f",
+			"revisionTime": "2015-12-18T03:14:29Z"
+		},
+		{
+			"checksumSHA1": "5ARrN3Zq+E9zazFb/N+b08Serys=",
+			"path": "golang.org/x/net/context",
+			"revision": "e7da8edaa52631091740908acaf2c2d4c9b3ce90",
+			"revisionTime": "2016-03-05T22:47:48Z"
+		}
+	],
+	"rootPath": "basic/vendor"
+}
